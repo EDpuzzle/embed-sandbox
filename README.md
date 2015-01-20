@@ -17,7 +17,7 @@ Create alias for localhost:
 Open Apache configuration file:
 
 ```
-sudo /etc/apache2/httpd.conf
+subl /etc/apache2/httpd.conf
 ```
 
 Add the corresponding virtual hosts lines to the Apache configuration file:
